@@ -1,3 +1,25 @@
+# Machine Learning Rice Calcification
+
+# HOW TO RUN PROJECT
+
+1. Download the Jupyter notebook:
+   ```bash
+   wget https://github.com/rezapace/Machine-Learning-Rice-calcification/releases/download/1.0/Rice_Detection.ipynb
+   ```
+
+2. Open Google Colab:
+   [https://colab.research.google.com/#create=true](https://colab.research.google.com/#create=true)
+
+3. Upload the downloaded `klasifikasi_catur.ipynb` file to Google Colab.
+
+4. Run the notebook:
+   - Execute each cell in order
+   - Follow the instructions provided in the notebook comments
+
+Note: Make sure you have a Google account to use Google Colab. If you encounter any issues, please refer to the [project repository](https://github.com/rezapace/Machine-Learning-Rice-calcification) for troubleshooting or to report problems.
+
+
+
 # Deskripsi
 Proyek ini adalah implementasi deteksi jenis beras menggunakan model pembelajaran mesin. Dataset yang digunakan terdiri dari tiga bagian utama: train, test, dan val. Proyek ini bertujuan untuk mengklasifikasikan gambar beras ke dalam dua kategori: Arborio dan Jasmine.
 
